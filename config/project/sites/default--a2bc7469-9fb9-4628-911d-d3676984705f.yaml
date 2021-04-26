@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-GB
+name: 'Crafty Coffee'
+primary: true
+siteGroup: 114a9f4d-5397-4016-a1cd-ea4712e176c8 # Crafty Coffee
+sortOrder: 1
