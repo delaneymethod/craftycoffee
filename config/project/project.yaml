@@ -1,4 +1,4 @@
-dateModified: 1619443475
+dateModified: 1619443883
 email:
   fromEmail: hello@delaneymethod.com
   fromName: 'Crafty Coffee'
@@ -7,8 +7,9 @@ system:
   edition: solo
   live: true
   name: 'Crafty Coffee'
+  retryDuration: null
   schemaVersion: 3.6.8
-  timeZone: America/Los_Angeles
+  timeZone: Europe/Dublin
 users:
   allowPublicRegistration: false
   defaultGroup: null
