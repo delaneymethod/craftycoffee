@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 398dac95-1af7-4632-ad67-56a8ff78a8a6 # Drinks
+handle: introduction
+instructions: 'Some sentence at top of page.'
+name: Introduction
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

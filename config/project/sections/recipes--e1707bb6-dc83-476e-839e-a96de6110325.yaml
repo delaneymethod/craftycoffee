@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: recipes
+name: Recipes
+propagationMethod: all
+siteSettings:
+  a2bc7469-9fb9-4628-911d-d3676984705f: # Crafty Coffee
+    enabledByDefault: true
+    hasUrls: true
+    template: recipes/_entry
+    uriFormat: 'recipes/{slug}'
+type: channel

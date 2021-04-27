@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: d0e1eb43-34e3-462f-9554-9a41f15f10e6 # Styles
+handle: styleDescription
+instructions: ''
+name: 'Style Description'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

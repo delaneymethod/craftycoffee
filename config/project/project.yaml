@@ -1,8 +1,13 @@
-dateModified: 1619443883
+dateModified: 1619466461
 email:
   fromEmail: hello@delaneymethod.com
   fromName: 'Crafty Coffee'
   transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: solo
   live: true

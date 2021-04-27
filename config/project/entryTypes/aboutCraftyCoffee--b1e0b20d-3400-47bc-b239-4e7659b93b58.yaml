@@ -1,0 +1,65 @@
+fieldLayouts:
+  a7dc7323-9345-4fd0-8715-802247fd1d94:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+          -
+            fieldUid: f0c3134a-bbaf-48f2-bcd2-1b11628408ed # Subtitle
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: ee9f3e0c-5c6c-40af-96be-9b8875cd21b0 # Page Intro
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 0b03c7bb-e63e-4492-b851-9f8e18cc0fc8 # Page Copy
+            instructions: ''
+            label: ''
+            required: '1'
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: About
+        sortOrder: 1
+handle: aboutCraftyCoffee
+hasTitleField: true
+name: 'About Crafty Coffee'
+section: 25d37d08-382e-4726-ab13-de1c05d1ef42 # About Crafty Coffee
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

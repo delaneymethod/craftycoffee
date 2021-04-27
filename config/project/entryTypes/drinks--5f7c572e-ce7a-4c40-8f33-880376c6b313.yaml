@@ -1,0 +1,83 @@
+fieldLayouts:
+  3bdf90ab-7967-46e2-b635-47490a43d823:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: ''
+            label: 'Drink Name'
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+          -
+            fieldUid: af87d995-8e70-4db0-98f6-016a7b13982a # Drink Style
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 5367e50c-c4e1-4bf6-bb93-209ce85a2d03 # Introduction
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 0b03c7bb-e63e-4492-b851-9f8e18cc0fc8 # Page Copy
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: ef4b685f-f880-4546-bc76-ed38ea2660be # Drink Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: b4ae84a4-cf89-442a-b9b6-05e09e6fe3d5 # Drink Recipe
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: 'Drink Details'
+        sortOrder: 1
+handle: drinks
+hasTitleField: true
+name: Drinks
+section: c3caa60d-1516-4e05-a6d7-63420b2eafe9 # Drinks
+sortOrder: 1
+titleFormat: 'Drink Name'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

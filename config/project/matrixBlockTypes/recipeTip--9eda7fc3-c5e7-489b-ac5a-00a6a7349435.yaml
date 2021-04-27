@@ -1,0 +1,40 @@
+field: e048ca5f-31cb-4590-8e66-909863f27a7f # Recipe Contents
+fieldLayouts:
+  24b18b92-d58e-44b2-9012-fc52f6640b10:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 942a67d1-1ba9-4045-9184-7b8678ac0ce3 # Tip Content
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  942a67d1-1ba9-4045-9184-7b8678ac0ce3: # Tip Content
+    contentColumnType: text
+    fieldGroup: null
+    handle: tipContent
+    instructions: ''
+    name: 'Tip Content'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: recipeTip
+name: 'Recipe Tip'
+sortOrder: 2
